@@ -1,5 +1,3 @@
-from itertools import *
-
 nameString = input("List all the friends you wish to split costs with (separated by a space): ")
 
 namesList = nameString.split( ) # Splits input String into individual string and puts it in a list
